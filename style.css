@@ -1,0 +1,25 @@
+body{
+    width:100vh;
+    height:100vh;
+    font-size: 4rem;
+    
+    text-align: center;
+    
+    align-items: center;
+    
+
+}
+header{
+    color:maroon;
+    background-color: khaki;
+    padding: 50px 50px 50px 50px;
+    border: 4px solid green;
+}
+main{
+
+    position: absolute;
+    width: 40vh;
+    height: 100vh;
+    display: grid;
+    
+}
